@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Dimalux/Dimalux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Maria Barvinok
+# 👋 Hi, I'm Dmytro Vuychych
 
-## 💻 Junior Fullstack Developer | React | Node.js
-
-Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
-
+## Junior Fullstack Developer | React | Node.js
+Fullstack developer | JavaScript, React, Redux, Node.js, and MongoDB. 
 ---
 
 ## 🧰 Tech Stack
