@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Dmytro Vuychych
+<h1 align="center">👋 Hi, I'm Dmytro Vuychych</h1>
+<h4 align="center">Junior Fullstack Developer</h3>
 
-## Junior Fullstack Developer | React | Node.js
-Fullstack developer | JavaScript, React, Redux, Node.js, and MongoDB. 
 ---
 
 ## 🧰 Tech Stack
