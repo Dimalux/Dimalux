@@ -1,19 +1,3 @@
-<!--
-**Dimalux/Dimalux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">👋 Hi, I'm Dmytro Vuychych</h1>
 <h4 align="center">Junior Fullstack Developer</h3>
 
@@ -49,30 +33,23 @@ Here are some ideas to get you started:
 Developed a full-featured note-taking application with user authentication and CRUD functionality.
 
 
-👥 Team Projects (Team Lead)
-Clothica Shop – Next.js • Node.js • REST API
-Developed a full-featured e-commerce clothing platform with dynamic catalog, product filtering, form validation, theme switching, and API-driven backend integration. Implemented advanced state management (Zustand, React Query), responsive UI, and rich animations for enhanced user experience.
+### 👥 Team Projects (Team Lead)
 
-A.R.I. – Learn JavaScript – Next.js • TypeScript • Tailwind CSS
-Developed an interactive JavaScript learning game featuring quizzes, text-based tasks, and live coding challenges powered by the Monaco Editor. Includes progressive levels, animated UI, saved player progress, and detailed end-of-game statistics to support effective learning.
-
-Book Shop – HTML • CSS • JavaScript
+- **[Book Shop](https://github.com/Dimalux/GreatLoom)** – HTML • CSS • JavaScript  
 Led a team to develop a dynamic online bookstore; coordinated tasks, implemented responsive design, and integrated search functionality.
+
 ---
 
 ## 📊 GitHub Stats
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbarvinok-13&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarvinok-13&layout=compact&theme=radical)
+![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api??username=Dimalux&show_icons=true&theme=radical)
 
 ---
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-A1-blue?style=for-the-badge)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge)
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=for-the-badge)
 
 ---
 
