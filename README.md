@@ -44,15 +44,20 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 
 ### 💻 Personal Projects
-Movie search web application built with React, REST API, and localStorage. Features include movie search, detailed information, and adding items to "Watched" and "Queue" lists.
 
-**Tech:** React | JavaScript | REST API | LocalStorage | Styled Components
+- **[Note Hub](https://github.com/Dimalux/09-auth)** – Next.js • REST API  
+Developed a full-featured note-taking application with user authentication and CRUD functionality.
 
-### 🍦 [IceCream Landing](https://github.com/mbarvinok-13/icecream-team-project)
-Responsive landing page for an ice cream brand developed in a team, with focus on responsive design and semantic HTML.
 
-**Tech:** HTML5 | CSS3 (SASS) | JavaScript | BEM Methodology | Parcel
+👥 Team Projects (Team Lead)
+Clothica Shop – Next.js • Node.js • REST API
+Developed a full-featured e-commerce clothing platform with dynamic catalog, product filtering, form validation, theme switching, and API-driven backend integration. Implemented advanced state management (Zustand, React Query), responsive UI, and rich animations for enhanced user experience.
 
+A.R.I. – Learn JavaScript – Next.js • TypeScript • Tailwind CSS
+Developed an interactive JavaScript learning game featuring quizzes, text-based tasks, and live coding challenges powered by the Monaco Editor. Includes progressive levels, animated UI, saved player progress, and detailed end-of-game statistics to support effective learning.
+
+Book Shop – HTML • CSS • JavaScript
+Led a team to develop a dynamic online bookstore; coordinated tasks, implemented responsive design, and integrated search functionality.
 ---
 
 ## 📊 GitHub Stats
