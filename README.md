@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Dmytro Vuychych</h1>
-<h4 align="center">Junior Fullstack Developer</h3>
+<h4 align="center">Junior Full Stack Developer</h3>
 
 ---
 
