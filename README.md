@@ -1,18 +1,3 @@
-<table>
-  <tr>
-    <!-- Фото зліва -->
-    <!-- <td width="30%" valign="top" align="center">
-      <img src="https://github.com/Dimalux.png" 
-           alt="Dmytro Vuychych" 
-           width="200"
-           style="border-radius: 50%; 
-                  border: 3px solid #e1e4e8;
-                  box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    </td> -->
- <!-- Текст праворуч -->
-    <td width="70%" valign="top">
-    
-
 <h1 align="center">👋 Hi, I'm Dmytro Vuychych</h1>
 <h4 align="center">Junior Fullstack Developer</h3>
 
